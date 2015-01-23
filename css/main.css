@@ -18,14 +18,32 @@ h3{
 }
 
 b{
-	font-style: italic;
+	font-style: none;
 	font-weight: normal;
+	color:#79756f;
+}
+
+.nav{
+	list-style-type: none;
+	padding: 0;
+}
+
+.tplanets{
+	list-style-type: lower-roman;
 }
 
 a{
-	color:black;
+	color:#713837;
+}
+
+.sources{
+	list-style-type: circle;
 }
 
 a:hover{
 	color:red
-};
+}
+
+.dt{
+	font-weight: bold;
+}
