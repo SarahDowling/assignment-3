@@ -1,3 +1,10 @@
-html{
-	font-family: arial, sans-serif;
+html {
+	font-family:arial, sans-serif;
+	background-color:#dbd6cf;
+}
+
+h1,h2{
+	font-family: 'Bevan', cursive;
+	color:#79756f;
+	font-size:2rem;
 }
