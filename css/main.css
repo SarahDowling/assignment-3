@@ -44,6 +44,11 @@ a:hover{
 	color:red
 }
 
-.dt{
+dt{
 	font-weight: bold;
+}
+
+figcaption{
+	font-style:italic;
+	font-size: 0.75rem;
 }
