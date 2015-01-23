@@ -17,6 +17,10 @@ h3{
 	font-size:1.25rem;
 }
 
+p{
+	color:black;
+}
+
 b{
 	font-style: none;
 	font-weight: normal;
@@ -51,4 +55,29 @@ dt{
 figcaption{
 	font-style:italic;
 	font-size: 0.75rem;
+}
+
+blockquote {
+	font-style: italic;
+	font-family: georgia, serif;
+	font-size: 1.5rem;
+}
+
+footer {
+	color:#79756f;
+	text-align: right;
+	font-size: 0.75rem;
+}
+
+em{
+	color:#79756f;
+	font-size:1.5em;
+}
+
+q{
+	font-style:italic;
+}
+
+i{
+	font-style:italic;
 }
